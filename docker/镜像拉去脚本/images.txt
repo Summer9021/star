@@ -1,0 +1,2 @@
+registry.cn-zhangjiakou.aliyuncs.com/sr/resource:sr-basic-system-be-2.0.0-release
+registry.cn-zhangjiakou.aliyuncs.com/sr/resource:sr-basic-usercenter-be-1.0.0-release
